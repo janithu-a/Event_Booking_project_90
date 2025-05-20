@@ -1,6 +1,5 @@
 package com.example.event_booking_project_90.servlet;
 
-
 import com.example.event_booking_project_90.model.Photography;
 import com.example.event_booking_project_90.util.PhotoEventFileHandler;
 
