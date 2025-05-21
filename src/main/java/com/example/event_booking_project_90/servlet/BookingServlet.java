@@ -1,4 +1,4 @@
-package com.example.event_booking_project_90.IT24100435.Controllers;
+package com.example.event_booking_project_90.servlet;
 
 import com.example.event_booking_project_90.IT24100435.Models.Booking;
 import com.example.event_booking_project_90.IT24100435.Models.BookingManagement;
