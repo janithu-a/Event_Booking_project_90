@@ -182,6 +182,7 @@
     <button class="add-button" onclick="openModal()">+ Add Event</button>
 </header>
 
+
 <div class="container">
     <h2 class="section-title">Photography Events</h2>
 

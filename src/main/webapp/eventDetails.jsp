@@ -203,7 +203,7 @@
             <h2>Book Event: <%= event.getTitle() %></h2>
             <span class="close" onclick="closeBookingModal()">&times;</span>
         </div>
-        <form action="BookEventServlet" method="post">
+        <form action="viewBookings.jsp" method="post">
             <input type="hidden" name="eventId" value="<%= event.getId() %>">
 
             <div class="form-group">
