@@ -1,4 +1,4 @@
-package com.example.event_booking_project_90.IT24100093.Controllers;
+package com.example.event_booking_project_90.servlet;
 
 import com.example.event_booking_project_90.IT24100093.Models.Payment;
 import com.example.event_booking_project_90.IT24100093.Models.PaymentRepository;

@@ -1,4 +1,4 @@
-package com.example.event_booking_project_90.IT24100093.Controllers;
+package com.example.event_booking_project_90.servlet;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
