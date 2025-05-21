@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="com.example.event_booking_project_90.IT24100093.Models.Payment" %>
+<%@ page import="com.example.event_booking_project_90.model.Payment" %>
 <%
     Payment payment = (Payment) session.getAttribute("lastPayment");
     String name = payment != null ? payment.getName() : "Not provided";

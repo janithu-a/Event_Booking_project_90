@@ -1,4 +1,5 @@
 <%@ page import="com.example.event_booking_project_90.util.PhotoEventFileHandler" %>
+<%@ page import="com.example.event_booking_project_90.model.Photography" %>
 <!DOCTYPE html>
 <html>
 <head>
