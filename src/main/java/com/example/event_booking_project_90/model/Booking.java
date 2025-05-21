@@ -1,4 +1,4 @@
-package com.example.event_booking_project_90.IT24100435.Models;
+package com.example.event_booking_project_90.model;
 
 public class Booking {
     private String bookingID;

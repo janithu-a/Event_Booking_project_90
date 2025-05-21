@@ -1,4 +1,4 @@
-package com.example.event_booking_project_90.IT24100093.Models;
+package com.example.event_booking_project_90.model;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

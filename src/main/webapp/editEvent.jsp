@@ -1,4 +1,4 @@
-<%@ page import="com.model.Photography" %>
+<%@ page import="com.example.event_booking_project_90.model.Photography" %>
 <!DOCTYPE html>
 <html>
 <head>

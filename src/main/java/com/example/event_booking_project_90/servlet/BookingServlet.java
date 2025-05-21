@@ -1,11 +1,11 @@
 package com.example.event_booking_project_90.servlet;
 
-import com.example.event_booking_project_90.IT24100435.Models.Booking;
-import com.example.event_booking_project_90.IT24100435.Models.BookingManagement;
+import com.example.event_booking_project_90.model.Booking;
+import com.example.event_booking_project_90.util.BookingManagement;
 
-import jakarta.servlet.*;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
 
 import java.io.IOException;
 

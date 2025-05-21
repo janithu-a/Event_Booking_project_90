@@ -1,4 +1,6 @@
-package com.example.event_booking_project_90.IT24100093.Models;
+package com.example.event_booking_project_90.util;
+
+import com.example.event_booking_project_90.model.Payment;
 
 import java.io.*;
 import java.util.ArrayList;

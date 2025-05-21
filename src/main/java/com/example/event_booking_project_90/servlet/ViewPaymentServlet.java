@@ -1,12 +1,12 @@
 package com.example.event_booking_project_90.servlet;
 
-import com.example.event_booking_project_90.IT24100093.Models.Payment;
-import com.example.event_booking_project_90.IT24100093.Models.PaymentRepository;
-import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.HttpServlet;
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpServletResponse;
+import com.example.event_booking_project_90.model.Payment;
+import com.example.event_booking_project_90.util.PaymentRepository;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 import java.io.PrintWriter;
